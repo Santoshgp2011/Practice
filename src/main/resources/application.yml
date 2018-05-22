@@ -3,6 +3,7 @@
 ### This file is in Yaml format but you can also configure spring boot using the traditionalSANTOSH
 ### Java properties file format. 
 ### Java properties file format. 
+### Java properties file format1. 
 spring.jmx:
    enabled: false
 
